@@ -1,9 +1,10 @@
-# almost_pascal
+# Almost Pascal
 Pseudo Pascal language, implemented as C preprocessor macroses
 
-I create this for fun :3 I will update syntax regulary so you can leave you wishes and comments.
+I created this for fun :3 
+I will update syntax regularly so you can leave your wishes and comments.
 
-Using example as sink:
+Example:
 ```
 #include "almost_pascal.h"
 
